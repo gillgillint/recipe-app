@@ -9,10 +9,6 @@ import addRecipeView from './views/addRecipeView.js';
 // import icons from '../img/icons.svg' // Parcel 1
 import 'core-js/stable';
 
-if (!module.hot) {
-  module.hot.accept();
-}
-
 // https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
